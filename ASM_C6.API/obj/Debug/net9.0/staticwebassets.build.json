@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "/Dr04dEnTBZwu7NP59RlbAIxQBTcn8hXgxn2kVoBZYo=",
-  "Source": "ASM_C6.API",
-  "BasePath": "_content/ASM_C6.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"uBO6y0oJywma2El7z3nETU/D0cqzKBcp43dOVQYtnyE=","Source":"ASM_C6.API","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
